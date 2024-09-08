@@ -1,6 +1,6 @@
-module todo
+module github.com/nurmuhammad701/immortals_brew
 
-go 1.22.1
+go 1.23.1
 
 require (
 	github.com/spf13/cobra v1.8.1
